@@ -1,8 +1,6 @@
 # Social Media Automation Knowledge Framework
 
-A structured automation framework that documents and operationalizes years of hands-on experience building large-scale social media automation systems. This project focuses on repeatable workflows, stable account handling, and scalable execution across browser and device-based environments.
-
-It consolidates proven patterns for managing accounts, sessions, proxies, and automation logic into a clean, reusable system.
+A structured automation framework that documents and operationalizes years of hands-on experience building large-scale social media automation systems. This project focuses on repeatable workflows, stable account handling, and scalable execution across browser and device-based environments. It consolidates proven patterns for managing accounts, sessions, proxies, and automation logic into a clean, reusable system.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
